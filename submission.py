@@ -1,5 +1,5 @@
 """
-This is an example script to generate the outcome variable given the input dataset.
+This is an example script to generate the outcome variable given the input dataset. 
 
 This script should be modified to prepare your own submission that predicts 
 the outcome for the benchmark challenge by changing the clean_df and predict_outcomes function.
